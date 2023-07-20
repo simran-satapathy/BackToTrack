@@ -1,0 +1,37 @@
+body {
+    background-image: url('image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+form {
+  color: aliceblue;
+  margin: 0 auto;
+  width:250px;
+}
+fieldset{
+    background-color: rgba(0, 0, 0, 0.5);
+	margin: auto auto;
+	padding: 40px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px #000;
+	position: absolute;
+	top: 50px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 500px;
+	height: 430px;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(100, 237, 166);
+    margin-bottom: 1rem;
+}
+tr{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:beige
+}
+h2{
+    background-color:  rgb(100, 237, 166);
+}
